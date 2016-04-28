@@ -1,0 +1,20 @@
+{
+  "name": "cassowary-js",
+  "authors": [
+    "Alex Russell"
+  ],
+  "description": "This is a compiled version of Cassowary/JS. For source versions or to contribute, see the github project https://github.com/slightlyoff/cassowary-js-refactor",
+  "main": "c.js",
+  "moduleType": [],
+  "license": "Apache-2.0",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "client/bower_components",
+    "test",
+    "tests"
+  ]
+}
